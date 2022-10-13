@@ -1,0 +1,251 @@
+year,month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct,weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted,arr_delay,carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+2017,8,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",579.00,216.00,50.51,9.44,119.10,0.12,36.83,11.00,0.00,13971.00,2756.00,1572.00,6656.00,2.00,2985.00
+2017,8,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",1299.00,394.00,63.74,2.50,275.84,1.00,50.92,1.00,0.00,22846.00,4128.00,93.00,15341.00,30.00,3254.00
+2017,8,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",187.00,70.00,9.87,0.15,48.24,0.00,11.73,0.00,1.00,6579.00,1162.00,18.00,4053.00,0.00,1346.00
+2017,8,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",62.00,7.00,3.32,0.00,0.00,0.00,3.68,0.00,0.00,419.00,237.00,0.00,0.00,0.00,182.00
+2017,8,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3325.00,1419.00,115.85,64.65,635.08,1.93,601.48,110.00,1.00,134670.00,19512.00,5270.00,58025.00,109.00,51754.00
+2017,8,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",6027.00,1616.00,233.25,48.00,940.14,1.19,393.41,83.00,4.00,111012.00,19528.00,4317.00,54826.00,81.00,32260.00
+2017,8,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1906.00,797.00,95.60,14.82,430.28,0.71,255.59,14.00,3.00,51463.00,6237.00,585.00,28420.00,12.00,16209.00
+2017,8,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1586.00,788.00,128.02,39.51,336.46,0.00,284.01,94.00,0.00,50334.00,8485.00,2987.00,20641.00,0.00,18221.00
+2017,8,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1194.00,433.00,79.74,10.11,249.63,2.00,91.52,10.00,0.00,24113.00,4539.00,835.00,12547.00,169.00,6023.00
+2017,8,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",486.00,139.00,11.36,0.00,108.38,1.00,18.26,6.00,10.00,6699.00,741.00,0.00,5087.00,38.00,833.00
+2017,7,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",1272.00,245.00,81.31,10.96,116.90,0.97,34.86,1.00,0.00,13236.00,5932.00,750.00,4534.00,68.00,1952.00
+2017,7,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",182.00,53.00,13.99,1.48,25.62,0.00,11.91,0.00,0.00,4066.00,905.00,91.00,1483.00,0.00,1587.00
+2017,7,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",62.00,8.00,6.83,0.00,0.00,0.00,1.17,0.00,0.00,180.00,161.00,0.00,0.00,0.00,19.00
+2017,7,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1209.00,345.00,95.37,19.92,110.78,1.11,117.83,14.00,4.00,21521.00,6622.00,2185.00,4941.00,42.00,7731.00
+2017,7,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",477.00,97.00,16.42,0.00,64.49,0.00,16.09,0.00,1.00,4135.00,794.00,0.00,2694.00,0.00,647.00
+2017,7,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",565.00,163.00,43.49,4.40,64.10,0.36,50.65,6.00,2.00,10357.00,2821.00,328.00,3096.00,12.00,4100.00
+2017,7,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3244.00,849.00,95.67,30.11,343.72,2.40,377.10,12.00,3.00,69149.00,19426.00,2388.00,20779.00,41.00,26515.00
+2017,7,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",5372.00,934.00,216.07,36.36,352.82,0.00,328.74,15.00,4.00,68595.00,19648.00,3770.00,16809.00,0.00,28368.00
+2017,7,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1886.00,493.00,65.44,11.04,195.12,2.56,218.83,8.00,1.00,25168.00,3538.00,661.00,8935.00,118.00,11916.00
+2017,7,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1516.00,460.00,86.45,16.05,157.53,0.31,199.67,30.00,0.00,25682.00,4880.00,836.00,8238.00,9.00,11719.00
+2017,6,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1178.00,444.00,119.51,15.82,185.90,0.93,121.84,17.00,3.00,26773.00,6959.00,1408.00,8885.00,24.00,9497.00
+2017,6,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",436.00,111.00,15.75,0.00,79.24,0.00,16.01,2.00,8.00,5684.00,804.00,0.00,4005.00,0.00,875.00
+2017,6,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",526.00,189.00,44.64,5.22,98.00,0.00,41.14,8.00,0.00,16281.00,3877.00,1203.00,6959.00,0.00,4242.00
+2017,6,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",1147.00,288.00,49.96,7.64,184.29,0.00,46.11,0.00,0.00,19205.00,3905.00,636.00,11420.00,0.00,3244.00
+2017,6,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",189.00,64.00,9.12,1.28,39.51,0.00,14.09,1.00,1.00,5236.00,653.00,77.00,2763.00,0.00,1743.00
+2017,6,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",60.00,18.00,16.68,0.00,0.00,0.00,1.32,0.00,0.00,500.00,389.00,0.00,0.00,0.00,111.00
+2017,6,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",2995.00,824.00,82.78,34.01,370.51,0.20,336.49,54.00,4.00,76810.00,16016.00,3916.00,29377.00,6.00,27495.00
+2017,6,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",5118.00,1266.00,252.83,28.25,657.71,0.00,327.22,13.00,5.00,88410.00,21295.00,2369.00,37429.00,0.00,27317.00
+2017,6,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1829.00,657.00,110.45,6.37,282.17,3.97,254.04,27.00,2.00,40825.00,5821.00,303.00,19203.00,252.00,15246.00
+2017,6,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1502.00,536.00,94.09,29.10,213.42,0.00,199.40,55.00,0.00,30319.00,5533.00,2207.00,12089.00,0.00,10490.00
+2017,5,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1110.00,348.00,59.14,2.77,226.78,0.67,58.64,8.00,2.00,20407.00,3329.00,184.00,12392.00,62.00,4440.00
+2017,5,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",492.00,131.00,11.84,1.32,104.35,0.00,13.49,1.00,12.00,6461.00,624.00,95.00,5252.00,0.00,490.00
+2017,5,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",539.00,194.00,43.75,1.08,103.67,0.00,45.50,9.00,1.00,14362.00,3229.00,283.00,7234.00,0.00,3616.00
+2017,5,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",1014.00,332.00,42.85,2.77,214.65,0.00,71.72,0.00,0.00,23799.00,3245.00,163.00,15325.00,0.00,5066.00
+2017,5,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",195.00,90.00,12.48,3.54,59.89,0.00,14.09,1.00,0.00,7113.00,644.00,169.00,4987.00,0.00,1313.00
+2017,5,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",62.00,18.00,15.58,0.00,0.05,0.00,2.37,0.00,0.00,718.00,578.00,0.00,1.00,0.00,139.00
+2017,5,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",2951.00,966.00,78.28,28.92,497.16,0.95,360.69,92.00,0.00,89120.00,13400.00,2503.00,43875.00,18.00,29324.00
+2017,5,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4733.00,1161.00,181.81,8.74,735.73,0.00,234.73,9.00,1.00,81808.00,13261.00,1198.00,49320.00,0.00,18029.00
+2017,5,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1802.00,723.00,88.52,10.09,351.97,1.08,271.34,54.00,2.00,50009.00,4529.00,591.00,27534.00,24.00,17331.00
+2017,5,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1476.00,587.00,82.22,25.44,252.36,0.00,226.98,79.00,0.00,36057.00,5402.00,1704.00,14558.00,0.00,14393.00
+2017,4,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1047.00,485.00,54.51,3.53,347.78,0.43,78.75,13.00,0.00,30734.00,3764.00,217.00,20551.00,31.00,6171.00
+2017,4,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",492.00,191.00,16.24,0.00,156.62,0.00,18.14,0.00,20.00,13355.00,791.00,0.00,11525.00,0.00,1039.00
+2017,4,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",515.00,226.00,28.42,0.94,163.30,0.00,33.33,9.00,2.00,19135.00,2614.00,262.00,12692.00,0.00,3567.00
+2017,4,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",944.00,438.00,64.46,17.01,292.80,0.00,63.73,10.00,0.00,33127.00,5215.00,1639.00,20496.00,0.00,5777.00
+2017,4,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",144.00,69.00,4.99,0.00,60.98,0.00,3.03,1.00,2.00,7538.00,844.00,0.00,6235.00,0.00,459.00
+2017,4,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",60.00,7.00,6.49,0.00,0.00,0.00,0.51,0.00,0.00,228.00,198.00,0.00,0.00,0.00,30.00
+2017,4,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",2982.00,1166.00,96.90,49.72,639.17,0.00,380.21,190.00,6.00,111880.00,14541.00,4456.00,58669.00,0.00,34214.00
+2017,4,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4345.00,1430.00,172.49,11.95,1012.27,0.00,233.29,6.00,6.00,115238.00,12192.00,857.00,79195.00,0.00,22994.00
+2017,4,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1679.00,750.00,60.92,43.42,491.91,3.31,150.43,44.00,4.00,59600.00,3722.00,1955.00,43000.00,832.00,10091.00
+2017,4,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1379.00,621.00,75.30,30.94,344.95,0.00,169.81,75.00,3.00,44127.00,5464.00,2709.00,23532.00,0.00,12422.00
+2017,3,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1112.00,326.00,82.22,7.44,163.54,1.67,71.14,14.00,3.00,20919.00,7124.00,387.00,8570.00,94.00,4744.00
+2017,3,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",494.00,137.00,24.85,1.00,87.43,0.00,23.72,1.00,5.00,7833.00,1127.00,117.00,5381.00,0.00,1208.00
+2017,3,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",535.00,130.00,32.98,0.23,65.60,0.00,31.20,22.00,0.00,9094.00,2178.00,18.00,3746.00,0.00,3152.00
+2017,3,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",807.00,146.00,28.11,3.87,95.44,0.85,17.73,7.00,0.00,10197.00,1784.00,808.00,6596.00,50.00,959.00
+2017,3,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",130.00,36.00,5.42,0.00,23.13,0.00,7.45,1.00,0.00,2469.00,397.00,0.00,1435.00,0.00,637.00
+2017,3,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",62.00,17.00,15.81,0.00,0.00,0.42,0.77,0.00,0.00,520.00,489.00,0.00,0.00,8.00,23.00
+2017,3,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3333.00,985.00,126.00,34.11,392.35,0.42,432.13,87.00,1.00,80605.00,16521.00,3183.00,30309.00,10.00,30582.00
+2017,3,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4470.00,948.00,196.32,11.21,498.18,0.00,242.29,38.00,5.00,67325.00,16092.00,697.00,28667.00,0.00,21869.00
+2017,3,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1727.00,549.00,80.31,35.07,224.54,0.67,208.41,45.00,7.00,35933.00,4416.00,1566.00,17510.00,13.00,12428.00
+2017,3,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1418.00,392.00,46.35,10.15,177.99,0.00,157.51,58.00,1.00,24343.00,3025.00,638.00,11224.00,0.00,9456.00
+2017,2,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",110.00,43.00,6.82,1.49,30.62,0.00,4.06,1.00,2.00,3372.00,324.00,34.00,2618.00,0.00,396.00
+2017,2,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",56.00,13.00,7.12,0.00,0.00,0.00,5.88,0.00,0.00,909.00,652.00,0.00,0.00,0.00,257.00
+2017,2,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3054.00,1023.00,128.05,48.41,528.04,1.00,317.50,286.00,6.00,96277.00,21403.00,4792.00,42656.00,25.00,27401.00
+2017,2,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",3582.00,1182.00,170.24,15.21,777.31,0.00,219.25,20.00,9.00,98294.00,13254.00,1175.00,61599.00,0.00,22266.00
+2017,2,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1511.00,594.00,57.02,86.75,342.05,0.37,107.82,68.00,27.00,42792.00,3365.00,3252.00,29951.00,15.00,6209.00
+2017,2,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",982.00,370.00,48.99,5.77,275.26,0.00,39.98,13.00,10.00,23254.00,3618.00,389.00,16614.00,0.00,2633.00
+2017,2,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",418.00,139.00,10.17,1.77,106.83,0.38,19.85,8.00,14.00,9828.00,858.00,294.00,7240.00,6.00,1430.00
+2017,2,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",498.00,186.00,29.04,6.88,108.87,1.49,39.72,24.00,3.00,11201.00,1689.00,771.00,5245.00,128.00,3368.00
+2017,2,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",589.00,202.00,24.25,7.40,161.47,0.00,8.88,3.00,0.00,15222.00,1930.00,909.00,11610.00,0.00,773.00
+2017,2,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1187.00,493.00,60.59,45.85,224.79,0.00,161.77,92.00,3.00,33946.00,4180.00,4544.00,14246.00,0.00,10976.00
+2017,1,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1119.00,430.00,76.30,5.63,289.79,1.14,57.14,25.00,31.00,25179.00,6046.00,473.00,14883.00,69.00,3708.00
+2017,1,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",448.00,148.00,13.58,4.63,108.26,0.00,21.53,7.00,11.00,10746.00,741.00,527.00,8221.00,0.00,1257.00
+2017,1,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",558.00,208.00,37.21,6.18,113.04,2.50,49.07,17.00,15.00,17081.00,2464.00,590.00,8659.00,195.00,5173.00
+2017,1,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",655.00,241.00,38.07,14.71,165.29,0.00,22.93,4.00,3.00,20417.00,4445.00,3152.00,11060.00,0.00,1760.00
+2017,1,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",145.00,71.00,11.20,0.58,49.00,0.00,10.21,3.00,4.00,6594.00,945.00,115.00,3858.00,0.00,1676.00
+2017,1,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",62.00,25.00,18.72,0.00,0.00,0.00,6.28,0.00,0.00,886.00,688.00,0.00,0.00,0.00,198.00
+2017,1,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3434.00,1210.00,145.88,55.07,559.65,2.57,446.83,281.00,7.00,104713.00,20523.00,6198.00,40981.00,222.00,36789.00
+2017,1,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",3807.00,1233.00,216.02,28.31,757.63,1.00,230.05,27.00,21.00,97808.00,19199.00,1780.00,52303.00,44.00,24482.00
+2017,1,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1712.00,674.00,89.83,65.60,353.01,1.64,163.92,58.00,55.00,48163.00,5424.00,2681.00,28682.00,38.00,11338.00
+2017,1,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1349.00,579.00,79.57,38.18,248.39,0.00,212.86,84.00,4.00,41509.00,5789.00,4242.00,16374.00,0.00,15104.00
+2016,12,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1270.00,469.00,84.10,8.21,302.03,0.00,74.66,13.00,14.00,26313.00,5810.00,911.00,14522.00,0.00,5070.00
+2016,12,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",436.00,100.00,20.56,1.33,57.68,0.00,20.44,6.00,4.00,7216.00,1447.00,111.00,4196.00,0.00,1462.00
+2016,12,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",488.00,184.00,33.42,3.44,117.23,0.67,29.23,4.00,5.00,10360.00,1410.00,586.00,6201.00,43.00,2120.00
+2016,12,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",957.00,339.00,64.52,10.20,205.14,0.00,59.13,2.00,0.00,23501.00,4389.00,1581.00,13230.00,0.00,4301.00
+2016,12,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",165.00,82.00,26.60,1.28,45.90,0.00,8.22,8.00,0.00,5736.00,1785.00,103.00,2771.00,0.00,1077.00
+2016,12,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",62.00,9.00,6.87,0.00,0.00,0.00,2.13,0.00,0.00,255.00,197.00,0.00,0.00,0.00,58.00
+2016,12,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3125.00,849.00,106.00,30.49,340.92,0.00,371.59,163.00,5.00,71977.00,15372.00,3423.00,24519.00,0.00,28663.00
+2016,12,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4398.00,1409.00,353.01,50.02,704.97,2.00,299.00,32.00,15.00,93635.00,23177.00,6444.00,38384.00,32.00,25598.00
+2016,12,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1824.00,591.00,78.98,83.01,241.76,2.15,185.11,39.00,61.00,42466.00,5543.00,3126.00,19837.00,42.00,13918.00
+2016,12,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1414.00,532.00,95.28,23.99,178.68,0.00,234.06,50.00,0.00,33988.00,5394.00,2089.00,10730.00,0.00,15775.00
+2016,11,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4373.00,670.00,187.13,6.66,300.73,0.00,175.48,16.00,4.00,41268.00,11472.00,581.00,15668.00,0.00,13547.00
+2016,11,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1753.00,335.00,38.77,16.22,173.20,1.13,105.68,6.00,1.00,17930.00,1920.00,420.00,10378.00,61.00,5151.00
+2016,11,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1373.00,297.00,54.45,18.64,89.32,0.00,134.59,21.00,0.00,15968.00,2684.00,1088.00,4790.00,0.00,7406.00
+2016,11,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1303.00,222.00,58.37,3.63,124.37,1.00,34.63,1.00,3.00,10670.00,3489.00,139.00,4977.00,26.00,2039.00
+2016,11,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",439.00,69.00,9.22,0.00,47.98,0.00,11.80,0.00,0.00,3725.00,470.00,0.00,2547.00,0.00,708.00
+2016,11,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",474.00,74.00,20.63,1.00,34.36,0.00,18.01,3.00,3.00,4192.00,1649.00,37.00,1302.00,0.00,1204.00
+2016,11,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",967.00,129.00,32.97,2.78,74.66,0.00,18.59,0.00,0.00,5461.00,1567.00,72.00,3008.00,0.00,814.00
+2016,11,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",166.00,25.00,4.91,0.00,14.72,0.00,5.37,0.00,0.00,1326.00,144.00,0.00,587.00,0.00,595.00
+2016,11,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",60.00,16.00,13.97,0.00,0.00,0.00,2.03,0.00,0.00,544.00,441.00,0.00,0.00,0.00,103.00
+2016,11,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",2965.00,639.00,76.77,20.79,310.98,0.00,230.45,30.00,3.00,47762.00,8826.00,1272.00,21074.00,0.00,16590.00
+2016,10,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1376.00,495.00,67.25,4.68,346.75,0.38,75.94,10.00,2.00,29729.00,3514.00,351.00,20174.00,9.00,5681.00
+2016,10,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",473.00,136.00,10.43,0.00,109.52,0.00,16.04,2.00,12.00,10173.00,588.00,0.00,8250.00,0.00,1335.00
+2016,10,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",494.00,158.00,37.17,2.14,90.59,0.37,27.73,13.00,0.00,9868.00,2524.00,269.00,5295.00,29.00,1751.00
+2016,10,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",1106.00,309.00,38.78,0.33,228.86,0.00,41.02,1.00,0.00,21288.00,2890.00,16.00,15436.00,0.00,2946.00
+2016,10,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",247.00,103.00,22.87,0.00,64.01,0.00,16.12,5.00,0.00,7458.00,1599.00,0.00,4509.00,0.00,1350.00
+2016,10,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",62.00,9.00,6.00,0.00,0.00,0.00,3.00,0.00,1.00,311.00,237.00,0.00,0.00,0.00,74.00
+2016,10,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3048.00,894.00,75.26,31.62,514.93,0.82,271.37,215.00,2.00,74718.00,10566.00,2503.00,42088.00,14.00,19547.00
+2016,10,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4829.00,1352.00,252.83,10.64,812.67,0.00,275.86,38.00,6.00,105380.00,16144.00,538.00,62962.00,0.00,25736.00
+2016,10,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1743.00,514.00,49.61,19.49,358.26,0.73,85.92,29.00,10.00,45298.00,2407.00,1140.00,35888.00,19.00,5844.00
+2016,10,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1440.00,539.00,65.84,40.14,270.28,0.00,162.74,62.00,2.00,36112.00,5021.00,3174.00,17793.00,0.00,10124.00
+2016,9,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1335.00,277.00,77.65,8.20,118.43,0.16,72.57,0.00,1.00,15007.00,4649.00,516.00,4846.00,3.00,4993.00
+2016,9,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",459.00,67.00,9.51,0.00,47.14,0.00,10.35,0.00,0.00,3843.00,604.00,0.00,2763.00,0.00,476.00
+2016,9,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",483.00,90.00,24.65,0.14,41.85,0.00,23.36,0.00,1.00,4297.00,1400.00,10.00,1717.00,0.00,1170.00
+2016,9,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",987.00,112.00,27.60,2.00,60.72,0.00,21.68,0.00,1.00,5908.00,1910.00,82.00,2446.00,0.00,1470.00
+2016,9,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",244.00,77.00,24.36,0.00,26.11,0.00,26.53,2.00,0.00,4728.00,1397.00,0.00,922.00,0.00,2409.00
+2016,9,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",60.00,12.00,10.33,0.00,0.00,1.00,0.67,0.00,0.00,393.00,358.00,0.00,0.00,19.00,16.00
+2016,9,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3069.00,553.00,63.05,12.35,260.22,0.04,217.34,23.00,3.00,39149.00,8222.00,1365.00,16447.00,2.00,13113.00
+2016,9,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4693.00,711.00,217.99,16.84,279.12,0.00,197.05,26.00,9.00,44932.00,15195.00,809.00,13155.00,0.00,15773.00
+2016,9,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1703.00,294.00,50.23,11.76,109.41,4.47,118.13,7.00,2.00,15852.00,2743.00,394.00,6419.00,209.00,6087.00
+2016,9,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1401.00,287.00,55.00,12.54,108.42,0.00,111.04,27.00,2.00,14224.00,3248.00,648.00,4929.00,0.00,5399.00
+2016,8,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1475.00,510.00,133.53,17.06,192.88,2.99,163.55,21.00,1.00,30187.00,8032.00,1792.00,8759.00,184.00,11420.00
+2016,8,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",482.00,122.00,7.86,0.00,100.08,0.00,14.05,0.00,0.00,6853.00,341.00,0.00,5819.00,0.00,693.00
+2016,8,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",504.00,142.00,33.70,4.00,59.62,0.00,44.68,3.00,1.00,8930.00,2427.00,442.00,2997.00,0.00,3064.00
+2016,8,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",1371.00,371.00,107.24,9.62,162.69,0.60,90.85,14.00,0.00,25043.00,9365.00,545.00,7129.00,142.00,7862.00
+2016,8,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",254.00,101.00,30.01,0.00,48.17,0.00,22.83,1.00,0.00,6894.00,2304.00,0.00,2222.00,0.00,2368.00
+2016,8,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",62.00,9.00,7.74,0.00,0.00,0.00,1.26,0.00,0.00,344.00,295.00,0.00,0.00,0.00,49.00
+2016,8,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3090.00,1095.00,81.68,19.35,547.87,0.00,446.10,29.00,1.00,78728.00,11772.00,1688.00,36150.00,0.00,29118.00
+2016,8,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",5441.00,1305.00,322.91,30.20,561.42,0.06,390.41,59.00,6.00,84988.00,22210.00,2001.00,28143.00,11.00,32623.00
+2016,8,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1837.00,527.00,68.45,19.20,259.74,1.03,178.57,4.00,0.00,27407.00,4003.00,536.00,13575.00,57.00,9236.00
+2016,8,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1452.00,458.00,81.70,33.02,186.21,0.19,156.88,56.00,0.00,22669.00,4395.00,2048.00,8686.00,17.00,7523.00
+2016,7,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1492.00,489.00,145.15,17.53,148.24,5.46,172.63,15.00,3.00,32071.00,9003.00,1729.00,7273.00,246.00,13820.00
+2016,7,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",480.00,66.00,10.84,0.00,48.85,0.65,5.66,0.00,0.00,4128.00,668.00,0.00,3152.00,11.00,297.00
+2016,7,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",481.00,137.00,34.78,4.29,51.00,0.00,46.94,2.00,0.00,8967.00,1639.00,790.00,2410.00,0.00,4128.00
+2016,7,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",1382.00,338.00,78.70,12.12,180.30,0.00,66.88,2.00,2.00,19751.00,5991.00,1046.00,8403.00,0.00,4311.00
+2016,7,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",249.00,93.00,27.22,1.84,36.97,0.00,26.96,0.00,0.00,8260.00,2126.00,98.00,2216.00,0.00,3820.00
+2016,7,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",62.00,8.00,7.42,0.00,0.58,0.00,0.00,0.00,1.00,824.00,809.00,0.00,15.00,0.00,0.00
+2016,7,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3034.00,709.00,93.64,13.43,284.96,0.00,316.97,23.00,4.00,56695.00,14260.00,1554.00,20293.00,0.00,20588.00
+2016,7,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",5109.00,1104.00,328.56,56.47,350.22,0.00,368.75,51.00,7.00,76926.00,21477.00,5542.00,19405.00,0.00,30502.00
+2016,7,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1807.00,430.00,88.20,19.79,156.78,0.18,165.04,13.00,3.00,23740.00,4670.00,883.00,9390.00,5.00,8792.00
+2016,7,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1397.00,413.00,102.69,25.88,105.77,0.14,178.52,79.00,1.00,27377.00,7377.00,1283.00,6307.00,17.00,12393.00
+2016,6,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1455.00,451.00,140.50,13.96,138.97,2.60,154.96,6.00,2.00,28359.00,9325.00,1029.00,6132.00,157.00,11716.00
+2016,6,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",471.00,88.00,16.56,0.00,57.15,0.00,14.29,0.00,1.00,4533.00,793.00,0.00,2781.00,0.00,959.00
+2016,6,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",472.00,110.00,23.51,1.83,57.88,0.00,26.78,0.00,0.00,5298.00,1019.00,239.00,2171.00,0.00,1869.00
+2016,6,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",1270.00,243.00,63.32,4.39,117.11,0.00,58.18,0.00,1.00,12091.00,3827.00,515.00,4770.00,0.00,2979.00
+2016,6,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",198.00,37.00,12.06,1.50,12.64,0.00,10.81,0.00,0.00,2625.00,623.00,44.00,690.00,0.00,1268.00
+2016,6,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",60.00,12.00,11.00,0.00,0.00,0.00,1.00,0.00,0.00,286.00,260.00,0.00,0.00,0.00,26.00
+2016,6,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3133.00,603.00,63.25,9.57,217.99,0.00,312.18,17.00,3.00,45313.00,10027.00,1758.00,14205.00,0.00,19323.00
+2016,6,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4715.00,908.00,280.83,34.31,303.61,0.00,289.24,37.00,9.00,61845.00,20024.00,2372.00,14145.00,0.00,25304.00
+2016,6,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1782.00,422.00,73.06,24.11,115.63,2.29,206.92,25.00,0.00,21999.00,4669.00,1030.00,6049.00,213.00,10038.00
+2016,6,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1375.00,352.00,94.54,10.43,77.20,1.20,168.62,54.00,0.00,16273.00,4835.00,374.00,3064.00,70.00,7930.00
+2016,5,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1427.00,398.00,98.93,14.64,198.80,2.06,83.57,6.00,1.00,21475.00,5786.00,1779.00,8488.00,102.00,5320.00
+2016,5,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",503.00,126.00,13.10,0.00,101.11,0.00,11.79,1.00,3.00,6884.00,1081.00,0.00,5416.00,0.00,387.00
+2016,5,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",485.00,104.00,27.82,2.20,47.86,0.87,25.25,1.00,0.00,5716.00,1730.00,77.00,2261.00,54.00,1594.00
+2016,5,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",1169.00,277.00,52.18,2.04,159.50,0.46,62.82,5.00,0.00,15325.00,3708.00,47.00,7759.00,28.00,3783.00
+2016,5,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",209.00,52.00,14.63,2.07,19.96,0.00,15.34,1.00,0.00,3073.00,631.00,227.00,1145.00,0.00,1070.00
+2016,5,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",62.00,10.00,7.99,0.15,0.00,0.00,1.86,0.00,1.00,294.00,234.00,5.00,0.00,0.00,55.00
+2016,5,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3401.00,1045.00,95.72,32.65,516.44,1.00,399.18,46.00,8.00,81482.00,12619.00,2900.00,37255.00,40.00,28668.00
+2016,5,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4492.00,810.00,200.71,18.77,378.77,0.00,211.75,19.00,8.00,54716.00,15930.00,1619.00,18305.00,0.00,18862.00
+2016,5,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1769.00,485.00,67.63,17.35,274.05,1.32,124.64,19.00,1.00,30307.00,4686.00,1033.00,17109.00,34.00,7445.00
+2016,5,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1390.00,460.00,79.18,32.51,187.54,1.00,159.78,40.00,4.00,24063.00,3805.00,1989.00,9342.00,19.00,8908.00
+2016,4,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1299.00,272.00,63.16,5.89,132.15,0.14,70.65,5.00,1.00,15625.00,3995.00,603.00,6242.00,4.00,4781.00
+2016,4,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",488.00,94.00,10.25,0.00,69.52,0.00,14.23,1.00,0.00,4724.00,504.00,0.00,3373.00,0.00,847.00
+2016,4,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",486.00,104.00,23.32,1.72,50.88,0.84,27.24,0.00,0.00,6098.00,1469.00,101.00,2289.00,24.00,2215.00
+2016,4,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",1092.00,202.00,36.05,1.00,102.80,0.00,62.15,0.00,0.00,11862.00,3865.00,39.00,4389.00,0.00,3569.00
+2016,4,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",208.00,50.00,12.10,0.54,30.38,0.00,6.97,1.00,0.00,2591.00,723.00,102.00,1239.00,0.00,527.00
+2016,4,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",60.00,17.00,15.59,0.00,0.00,0.29,1.13,0.00,0.00,667.00,631.00,0.00,0.00,6.00,30.00
+2016,4,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3091.00,643.00,80.59,4.54,290.66,0.77,266.43,28.00,3.00,50610.00,11215.00,506.00,18810.00,24.00,20055.00
+2016,4,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4189.00,645.00,164.40,9.85,262.80,0.00,207.94,42.00,5.00,46734.00,14003.00,613.00,14075.00,0.00,18043.00
+2016,4,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1704.00,415.00,68.73,11.94,201.89,2.05,130.39,10.00,1.00,22533.00,3866.00,482.00,10977.00,60.00,7148.00
+2016,4,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1334.00,340.00,70.73,8.68,122.53,0.00,138.06,41.00,1.00,18003.00,4015.00,495.00,5757.00,0.00,7736.00
+2016,3,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",1166.00,373.00,58.51,9.17,231.11,0.00,74.20,0.00,1.00,27032.00,5613.00,604.00,15796.00,0.00,5019.00
+2016,3,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",200.00,82.00,15.20,2.53,55.08,0.00,9.19,6.00,0.00,7869.00,1083.00,367.00,5291.00,0.00,1128.00
+2016,3,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",62.00,10.00,7.75,0.00,0.00,0.00,2.25,0.00,0.00,413.00,308.00,0.00,0.00,0.00,105.00
+2016,3,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3388.00,1229.00,100.20,13.59,631.64,2.94,480.63,204.00,1.00,102095.00,12210.00,901.00,51468.00,227.00,37289.00
+2016,3,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4165.00,1090.00,198.57,20.73,604.00,0.00,266.69,24.00,7.00,82332.00,14341.00,1284.00,44157.00,0.00,22550.00
+2016,3,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1639.00,527.00,56.49,13.32,342.53,2.31,112.35,29.00,3.00,42574.00,2963.00,628.00,31127.00,64.00,7792.00
+2016,3,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1342.00,467.00,69.24,44.89,211.25,0.67,140.95,68.00,0.00,30325.00,4451.00,4244.00,13349.00,15.00,8266.00
+2016,3,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1302.00,437.00,57.99,8.81,273.98,2.76,93.47,3.00,1.00,27026.00,3258.00,651.00,16827.00,190.00,6100.00
+2016,3,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",486.00,136.00,17.42,0.71,102.99,1.00,13.88,0.00,9.00,9851.00,1178.00,20.00,7787.00,16.00,850.00
+2016,3,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",505.00,184.00,30.83,2.09,117.01,0.00,34.07,5.00,8.00,13106.00,1270.00,117.00,8558.00,0.00,3161.00
+2016,2,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1208.00,237.00,67.97,6.14,110.11,0.47,52.31,8.00,1.00,16226.00,3824.00,787.00,6393.00,85.00,5137.00
+2016,2,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",429.00,53.00,14.42,1.00,27.89,0.00,9.69,1.00,3.00,2869.00,586.00,77.00,1811.00,0.00,395.00
+2016,2,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",486.00,152.00,48.55,5.99,44.94,0.57,51.95,5.00,8.00,11613.00,2848.00,896.00,2619.00,11.00,5239.00
+2016,2,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",926.00,162.00,44.84,7.29,66.76,0.00,43.11,3.00,1.00,10991.00,2862.00,1114.00,4094.00,0.00,2921.00
+2016,2,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",166.00,33.00,11.39,0.00,16.07,0.00,5.54,2.00,0.00,2470.00,477.00,0.00,1459.00,0.00,534.00
+2016,2,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",58.00,5.00,4.83,0.00,0.17,0.00,0.00,0.00,0.00,171.00,168.00,0.00,3.00,0.00,0.00
+2016,2,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",2989.00,563.00,84.57,8.49,196.01,0.93,273.00,101.00,4.00,46020.00,10050.00,929.00,16114.00,124.00,18803.00
+2016,2,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",3552.00,496.00,143.59,21.35,213.56,0.00,117.50,12.00,5.00,39411.00,10231.00,1594.00,14443.00,0.00,13143.00
+2016,2,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1416.00,213.00,42.45,19.70,92.32,3.93,54.60,11.00,4.00,16105.00,2473.00,1170.00,7944.00,231.00,4287.00
+2016,2,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1193.00,166.00,34.40,11.44,61.15,0.00,59.00,35.00,1.00,8656.00,2153.00,870.00,2809.00,0.00,2824.00
+2016,1,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1270.00,376.00,73.87,10.43,238.24,0.80,52.67,34.00,0.00,21952.00,4180.00,877.00,13054.00,49.00,3792.00
+2016,1,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",444.00,121.00,10.38,2.00,98.21,0.00,10.41,3.00,6.00,7526.00,458.00,74.00,6262.00,0.00,732.00
+2016,1,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",502.00,178.00,36.21,7.41,89.36,0.00,45.02,13.00,6.00,13280.00,2188.00,703.00,6301.00,0.00,4088.00
+2016,1,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",965.00,303.00,49.86,8.12,167.90,0.00,77.12,15.00,0.00,23126.00,5491.00,1255.00,11234.00,0.00,5146.00
+2016,1,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",186.00,68.00,8.74,0.00,49.89,0.00,9.37,1.00,0.00,5309.00,786.00,0.00,3437.00,0.00,1086.00
+2016,1,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",62.00,4.00,2.00,0.00,0.00,0.00,2.00,0.00,0.00,237.00,161.00,0.00,0.00,0.00,76.00
+2016,1,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3288.00,1071.00,100.52,7.92,565.36,0.00,397.20,204.00,0.00,84760.00,11204.00,612.00,42986.00,0.00,29958.00
+2016,1,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",3684.00,826.00,157.90,21.94,498.45,0.00,147.72,84.00,3.00,61673.00,11111.00,1260.00,35422.00,0.00,13880.00
+2016,1,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1542.00,497.00,54.90,12.12,334.82,0.87,94.30,42.00,4.00,36157.00,3460.00,495.00,25197.00,17.00,6988.00
+2016,1,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1263.00,381.00,65.18,50.20,153.22,0.00,112.40,53.00,1.00,24590.00,4602.00,3654.00,9523.00,0.00,6811.00
+2015,12,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1377.00,434.00,88.33,13.57,262.97,0.36,68.77,20.00,1.00,28778.00,4602.00,1274.00,18167.00,41.00,4694.00
+2015,12,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",443.00,117.00,15.33,3.87,80.16,0.00,17.63,0.00,10.00,10176.00,1615.00,666.00,6954.00,0.00,941.00
+2015,12,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",493.00,185.00,35.00,2.55,101.93,1.03,44.48,4.00,8.00,14546.00,3126.00,323.00,7547.00,20.00,3530.00
+2015,12,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",995.00,325.00,62.14,14.79,170.83,0.00,77.24,5.00,0.00,24762.00,4279.00,2272.00,11957.00,0.00,6254.00
+2015,12,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",248.00,106.00,10.18,1.77,65.83,0.00,28.22,3.00,1.00,10552.00,852.00,134.00,6362.00,0.00,3204.00
+2015,12,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",62.00,11.00,11.00,0.00,0.00,0.00,0.00,0.00,0.00,331.00,331.00,0.00,0.00,0.00,0.00
+2015,12,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3288.00,1139.00,110.38,16.25,581.63,2.11,428.63,220.00,1.00,95916.00,11313.00,1305.00,50210.00,59.00,33029.00
+2015,12,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4057.00,1133.00,270.28,33.66,596.21,0.00,232.86,58.00,4.00,95637.00,19825.00,3188.00,48342.00,0.00,24282.00
+2015,12,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1600.00,570.00,67.64,24.65,327.74,5.75,144.22,19.00,10.00,46884.00,3631.00,897.00,31053.00,165.00,11138.00
+2015,12,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1270.00,445.00,88.25,34.20,184.23,0.00,138.31,53.00,2.00,32002.00,5709.00,3729.00,12933.00,0.00,9631.00
+2015,11,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1352.00,232.00,64.00,11.30,102.57,0.22,53.91,5.00,1.00,12459.00,3515.00,1913.00,3911.00,13.00,3107.00
+2015,11,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",432.00,54.00,15.22,3.25,22.70,0.00,12.82,1.00,0.00,3147.00,1354.00,214.00,859.00,0.00,720.00
+2015,11,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",489.00,89.00,31.88,0.00,35.78,0.00,21.34,0.00,4.00,4956.00,1809.00,0.00,1428.00,0.00,1719.00
+2015,11,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",1062.00,189.00,46.02,6.04,86.79,0.00,50.16,1.00,0.00,9721.00,3125.00,218.00,3103.00,0.00,3275.00
+2015,11,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",223.00,68.00,15.80,1.06,36.05,0.00,15.09,0.00,0.00,3864.00,1129.00,104.00,1486.00,0.00,1145.00
+2015,11,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",60.00,5.00,5.00,0.00,0.00,0.00,0.00,1.00,0.00,184.00,184.00,0.00,0.00,0.00,0.00
+2015,11,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3116.00,513.00,76.54,6.97,176.63,0.00,252.87,26.00,1.00,31427.00,7522.00,413.00,7679.00,0.00,15813.00
+2015,11,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4009.00,557.00,197.95,9.48,169.92,0.00,179.65,18.00,3.00,40887.00,15100.00,966.00,7828.00,0.00,16993.00
+2015,11,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1530.00,269.00,79.90,17.89,80.90,2.77,87.54,13.00,7.00,12811.00,4161.00,452.00,3237.00,152.00,4809.00
+2015,11,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1254.00,213.00,52.03,10.07,58.57,0.00,92.33,23.00,1.00,8559.00,2035.00,345.00,2056.00,0.00,4123.00
+2015,10,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1441.00,216.00,66.42,5.06,102.27,0.08,42.17,7.00,3.00,10657.00,3043.00,553.00,3666.00,2.00,3393.00
+2015,10,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",473.00,52.00,13.79,5.50,25.53,0.00,7.18,0.00,0.00,2512.00,757.00,397.00,1108.00,0.00,250.00
+2015,10,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",467.00,74.00,23.29,1.30,22.14,0.00,27.27,0.00,3.00,4259.00,1391.00,109.00,896.00,0.00,1863.00
+2015,10,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",1036.00,125.00,33.92,2.34,56.05,0.00,32.68,0.00,2.00,5553.00,1872.00,430.00,1929.00,0.00,1322.00
+2015,10,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",186.00,34.00,8.76,0.00,18.47,0.00,6.77,0.00,0.00,1611.00,600.00,0.00,636.00,0.00,375.00
+2015,10,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3273.00,590.00,71.85,4.14,239.67,0.00,274.35,33.00,1.00,41166.00,7373.00,141.00,15493.00,0.00,18159.00
+2015,10,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",62.00,12.00,10.08,0.00,0.00,0.00,1.92,0.00,0.00,314.00,261.00,0.00,0.00,0.00,53.00
+2015,10,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4362.00,529.00,189.16,3.91,174.02,0.00,161.91,17.00,3.00,36294.00,13271.00,250.00,8607.00,0.00,14166.00
+2015,10,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1525.00,223.00,45.23,5.29,78.63,0.00,93.84,4.00,0.00,13387.00,2592.00,206.00,4846.00,0.00,5743.00
+2015,10,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1345.00,241.00,48.24,12.30,75.34,0.00,105.12,13.00,1.00,12420.00,2166.00,862.00,3976.00,0.00,5416.00
+2015,9,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1362.00,192.00,66.28,8.98,77.38,0.00,39.35,3.00,0.00,9898.00,3770.00,466.00,2892.00,0.00,2770.00
+2015,9,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",457.00,52.00,14.14,2.94,26.64,0.92,7.36,0.00,0.00,2818.00,790.00,240.00,1346.00,68.00,374.00
+2015,9,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",445.00,94.00,29.96,2.16,40.54,0.23,21.11,0.00,2.00,4118.00,1379.00,150.00,1458.00,11.00,1120.00
+2015,9,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",946.00,135.00,40.78,3.21,56.10,0.00,34.91,0.00,2.00,7016.00,3254.00,291.00,2033.00,0.00,1438.00
+2015,9,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",181.00,24.00,6.35,0.00,13.59,0.00,4.06,0.00,0.00,1581.00,213.00,0.00,559.00,0.00,809.00
+2015,9,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",60.00,16.00,13.45,0.81,0.00,0.00,1.74,1.00,1.00,539.00,439.00,50.00,0.00,0.00,50.00
+2015,9,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",2967.00,457.00,59.21,4.91,177.36,0.00,215.52,34.00,1.00,27652.00,5640.00,151.00,10471.00,0.00,11390.00
+2015,9,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4167.00,563.00,179.15,11.38,209.34,0.00,163.12,8.00,5.00,32914.00,10095.00,524.00,9490.00,0.00,12805.00
+2015,9,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1445.00,172.00,23.69,14.64,76.91,0.00,56.76,2.00,0.00,8612.00,1864.00,366.00,4093.00,0.00,2289.00
+2015,9,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1288.00,208.00,46.72,5.62,62.59,0.12,92.96,30.00,1.00,9388.00,2421.00,306.00,2706.00,3.00,3952.00
+2015,8,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1438.00,285.00,118.13,13.23,78.63,2.65,72.35,7.00,2.00,16520.00,7068.00,1429.00,3067.00,132.00,4824.00
+2015,8,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",515.00,95.00,21.45,12.19,40.97,0.00,20.38,1.00,0.00,4229.00,1122.00,555.00,1702.00,0.00,850.00
+2015,8,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",460.00,147.00,42.80,4.88,45.97,3.16,50.19,2.00,6.00,8716.00,2494.00,436.00,1826.00,200.00,3760.00
+2015,8,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",1135.00,222.00,58.97,9.64,87.24,0.00,66.15,2.00,1.00,11314.00,4076.00,531.00,3035.00,0.00,3672.00
+2015,8,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",186.00,27.00,5.66,0.00,16.76,0.00,4.58,0.00,0.00,1411.00,192.00,0.00,823.00,0.00,396.00
+2015,8,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",62.00,11.00,9.70,0.00,0.43,0.13,0.74,0.00,0.00,324.00,298.00,0.00,9.00,2.00,15.00
+2015,8,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3146.00,767.00,79.25,9.50,322.31,0.99,354.95,68.00,1.00,47948.00,8726.00,534.00,17376.00,99.00,21213.00
+2015,8,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4641.00,930.00,306.27,34.97,292.11,1.00,295.65,34.00,7.00,56308.00,17887.00,2193.00,13719.00,40.00,22469.00
+2015,8,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1672.00,318.00,51.39,10.13,111.24,1.14,144.11,8.00,0.00,17049.00,2967.00,244.00,5547.00,54.00,8237.00
+2015,8,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1350.00,347.00,83.09,13.37,111.36,0.00,139.18,43.00,0.00,18643.00,5160.00,665.00,4655.00,0.00,8163.00
